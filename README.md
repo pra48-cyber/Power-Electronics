@@ -6,15 +6,14 @@ Welcome to the **Power Electronics** experiment repository! This repository cont
 
 ## ⚡ Repository Structure
 
-- **Experiment 01**: [Experiment Title](link-to-experiment)
-  - Introduction and purpose of this experiment.
-- **Experiment 02**: [Experiment Title](link-to-experiment)
-  - Introduction and purpose of this experiment.
-- **Experiment 03**: [Experiment Title](link-to-experiment)
-  - Introduction and purpose of this experiment.
-- **Experiment 04**: [Experiment Title](link-to-experiment)
-  - Introduction and purpose of this experiment.
-- **Experiment 05**: [DC-DC Boost converter](link-to-experiment)
-  - More details about experiment files.
-- **Experiment 06**: [Study of 1-phase full-bridge Inverter](link-to-experiment)
-  - Purpose underlying goals of contents.
+## List of Experiments
+
+1. **Familiarization of dSPACE and TMS microcontrollers.**
+2. **Study of 1-phase and 3-phase diode rectifiers with capacitive filter.**
+3. **Study the switching characteristics of IGBT.**
+4. **Study of DC-DC Buck converter.**
+5. **Study of DC-DC Boost converter.**
+6. **Study of 1-phase full-bridge Inverter.**
+7. **Study of 3-phase full-bridge Inverter for resistive load by operating in 120° and 180° conduction modes.**
+8. **Study of 3-phase full-bridge Inverter for induction motor by using SPWM.**
+
